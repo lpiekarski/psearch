@@ -1,0 +1,4 @@
+venv
+powershell_search.egg-info
+.idea
+__pycache__
